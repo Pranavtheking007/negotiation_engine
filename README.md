@@ -1,4 +1,7 @@
 # समवाय: Negotiation Engine
+#### Track: Hackathon > Foundation > Negotiation Engine
+#### Team: Nidan
+#### Members: Pranav Singh, Vedant Tadla, Kunal Thakkar, Nidhee Makwana
 
 ## Overview
 This project comprises several notebooks aimed at different aspects of a negotiation application. The main notebooks are:
