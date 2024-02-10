@@ -1,13 +1,9 @@
 # समवाय: Negotiation Engine
-Negotiation_flask_vt(1) is the main notebook for API.
-Negotiation_Similarity is the noteboook used to train and test for similarity scores.
-Negotiation_Engine is the maine notebook in which we have fine tuned LLM for negotiation task.
-
 
 ## Overview
 This project comprises several notebooks aimed at different aspects of a negotiation application. The main notebooks are:
 
-1. **Negotiation_flask_VT(1)**:
+1. **Negotiation_Flask_API_VT(1)**:
     - This notebook serves as the main implementation for the Flask API used in the negotiation application.
 
 2. **Negotiation_Similarity**:
@@ -17,7 +13,7 @@ This project comprises several notebooks aimed at different aspects of a negotia
     - The main notebook where the Language Model (LLM) has been fine-tuned specifically for the negotiation task. This notebook plays a central role in orchestrating the negotiation process.
 
 ## Notebooks Overview
-- **Negotiation_flask_VT(1)**:
+- **Negotiation_Flask_API_VT(1)**:
     - Contains the codebase for the Flask API, providing endpoints for various functionalities within the negotiation application.
 
 - **Negotiation_Similarity**:
@@ -27,7 +23,7 @@ This project comprises several notebooks aimed at different aspects of a negotia
     - Centralizes the fine-tuning of the Language Model (LLM) tailored specifically for negotiations. It's the core component responsible for driving the negotiation process.
 
 ## Usage
-- **Negotiation_flask_VT(1)**:
+- **Negotiation_Flask_API_VT(1)**:
     - This notebook serves as a guide to set up and run the Flask API for the negotiation application.
 
 - **Negotiation_Similarity**:
